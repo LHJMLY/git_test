@@ -1,8 +1,12 @@
 #include<stdio.h>
-int main (void) {
+void main (void) {
 	printf("请输入两个整数：");
-	int a, b;
+	void a, b;
 	scanf(%)
 	Max(a, b);
-	return 0;
+	return;
 }
+hgaklj;m
+gahikj
+gnakljm
+gnkal
