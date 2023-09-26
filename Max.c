@@ -6,7 +6,3 @@ void main (void) {
 	Max(a, b);
 	return;
 }
-hgaklj;m
-gahikj
-gnakljm
-gnkal
