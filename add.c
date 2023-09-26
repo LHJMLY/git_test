@@ -1,5 +1,7 @@
 #include <stdio.h>
-void main(void){
+#include <windows.h>
+int main(void){
+      int a, b;
       printf("Hello word!");
-      return;
+      return 0;
 }
