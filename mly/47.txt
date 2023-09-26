@@ -1,2 +1,10 @@
 kljgnaklgjn
-gnkalj
+gnk
+ahnjklgnakl;
+anljkgml
+#include<stdio.h>
+{
+     printf("Hello word!");
+     return 0;
+}
+
